@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res" >
+            <file
+                name="abaddon_aphotic_shield_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\abaddon_aphotic_shield_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="abaddon_borrowed_time_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\abaddon_borrowed_time_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="abaddon_death_coil_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\abaddon_death_coil_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="abaddon_frostmourne_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\abaddon_frostmourne_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="abaddon_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\abaddon_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="alchemist_acid_spray_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\alchemist_acid_spray_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="alchemist_chemical_rage_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\alchemist_chemical_rage_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="alchemist_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\alchemist_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="alchemist_goblins_greed_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\alchemist_goblins_greed_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="alchemist_unstable_concoction_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\alchemist_unstable_concoction_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="axe_battle_hunger_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\axe_battle_hunger_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="axe_berserkers_call_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\axe_berserkers_call_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="axe_counter_helix_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\axe_counter_helix_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="axe_culling_blade_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\axe_culling_blade_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="axe_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\axe_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="beastmaster_call_of_the_wild_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\beastmaster_call_of_the_wild_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="beastmaster_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\beastmaster_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="beastmaster_inner_beast_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\beastmaster_inner_beast_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="beastmaster_primal_roar_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\beastmaster_primal_roar_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="beastmaster_wild_axes_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\beastmaster_wild_axes_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="brewmaster_drunken_brawler_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\brewmaster_drunken_brawler_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="brewmaster_drunken_haze_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\brewmaster_drunken_haze_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="brewmaster_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\brewmaster_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="brewmaster_primal_split_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\brewmaster_primal_split_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="brewmaster_thunder_clap_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\brewmaster_thunder_clap_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="bristleback_bristleback_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\bristleback_bristleback_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="bristleback_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\bristleback_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="bristleback_quill_spray_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\bristleback_quill_spray_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="bristleback_viscous_nasal_goo_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\bristleback_viscous_nasal_goo_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="bristleback_warpath_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\bristleback_warpath_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="centaur_double_edge_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\centaur_double_edge_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="centaur_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\centaur_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="centaur_hoof_stomp_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\centaur_hoof_stomp_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="centaur_return_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\centaur_return_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="centaur_stampede_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\centaur_stampede_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="chaos_knight_chaos_bolt_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\chaos_knight_chaos_bolt_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="chaos_knight_chaos_strike_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\chaos_knight_chaos_strike_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="chaos_knight_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\chaos_knight_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="chaos_knight_phantasm_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\chaos_knight_phantasm_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="chaos_knight_reality_rift_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\chaos_knight_reality_rift_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="custom_btn_sorbus"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\custom_btn_sorbus.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="doom_bringer_devour_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\doom_bringer_devour_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="doom_bringer_doom_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\doom_bringer_doom_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="doom_bringer_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\doom_bringer_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="doom_bringer_lvl_death_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\doom_bringer_lvl_death_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="doom_bringer_scorched_earth_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\doom_bringer_scorched_earth_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="dota"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\dota.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="dragon_knight_breathe_fire_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\dragon_knight_breathe_fire_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="dragon_knight_dragon_blood_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\dragon_knight_dragon_blood_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="dragon_knight_dragon_tail_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\dragon_knight_dragon_tail_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="dragon_knight_elder_dragon_form_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\dragon_knight_elder_dragon_form_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="dragon_knight_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\dragon_knight_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="earthshaker_aftershock_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\earthshaker_aftershock_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="earthshaker_echo_slam_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\earthshaker_echo_slam_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="earthshaker_enchant_totem_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\earthshaker_enchant_totem_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="earthshaker_fissure_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\earthshaker_fissure_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="earthshaker_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\earthshaker_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="elder_titan_ancestral_spirit_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\elder_titan_ancestral_spirit_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="elder_titan_earth_splitter_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\elder_titan_earth_splitter_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="elder_titan_echo_stomp_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\elder_titan_echo_stomp_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="elder_titan_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\elder_titan_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="elder_titan_natural_order_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\elder_titan_natural_order_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="huskar_berserkers_blood_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\huskar_berserkers_blood_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="huskar_burning_spear_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\huskar_burning_spear_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="huskar_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\huskar_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="huskar_inner_vitality_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\huskar_inner_vitality_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="huskar_life_break_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\huskar_life_break_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="kunkka_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\kunkka_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="kunkka_ghostship_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\kunkka_ghostship_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="kunkka_tidebringer_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\kunkka_tidebringer_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="kunkka_torrent_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\kunkka_torrent_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="kunkka_x_marks_the_spot_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\kunkka_x_marks_the_spot_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="life_stealer_feast_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\life_stealer_feast_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="life_stealer_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\life_stealer_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="life_stealer_infest_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\life_stealer_infest_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="life_stealer_open_wounds_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\life_stealer_open_wounds_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="life_stealer_rage_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\life_stealer_rage_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="lycan_feral_impulse_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\lycan_feral_impulse_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="lycan_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\lycan_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="lycan_howl_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\lycan_howl_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="lycan_shapeshift_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\lycan_shapeshift_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="lycan_summon_wolves_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\lycan_summon_wolves_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="magnataur_empower_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\magnataur_empower_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="magnataur_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\magnataur_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="magnataur_reverse_polarity_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\magnataur_reverse_polarity_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="magnataur_shockwave_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\magnataur_shockwave_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="magnataur_skewer_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\magnataur_skewer_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="night_stalker_crippling_fear_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\night_stalker_crippling_fear_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="night_stalker_darkness_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\night_stalker_darkness_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="night_stalker_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\night_stalker_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="night_stalker_hunter_in_the_night_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\night_stalker_hunter_in_the_night_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="night_stalker_void_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\night_stalker_void_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="omniknight_degen_aura_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\omniknight_degen_aura_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="omniknight_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\omniknight_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="omniknight_guardian_angel_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\omniknight_guardian_angel_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="omniknight_purification_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\omniknight_purification_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="omniknight_repel_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\omniknight_repel_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="pudge_dismember_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\pudge_dismember_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="pudge_flesh_heap_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\pudge_flesh_heap_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="pudge_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\pudge_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="pudge_meat_hook_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\pudge_meat_hook_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="pudge_rot_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\pudge_rot_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="rattletrap_battery_assault_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\rattletrap_battery_assault_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="rattletrap_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\rattletrap_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="rattletrap_hookshot_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\rattletrap_hookshot_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="rattletrap_power_cogs_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\rattletrap_power_cogs_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="rattletrap_rocket_flare_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\rattletrap_rocket_flare_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="sandking_burrowstrike_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\sandking_burrowstrike_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="sandking_caustic_finale_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\sandking_caustic_finale_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="sandking_epicenter_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\sandking_epicenter_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="sandking_sand_storm_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\sandking_sand_storm_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="sand_king_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\sand_king_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="scroll"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\scroll.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="shredder_chakram_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\shredder_chakram_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="shredder_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\shredder_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="shredder_reactive_armor_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\shredder_reactive_armor_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="shredder_timber_chain_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\shredder_timber_chain_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="shredder_whirling_death_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\shredder_whirling_death_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="skeleton_king_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\skeleton_king_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="skeleton_king_hellfire_blast_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\skeleton_king_hellfire_blast_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="skeleton_king_mortal_strike_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\skeleton_king_mortal_strike_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="skeleton_king_reincarnation_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\skeleton_king_reincarnation_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="skeleton_king_vampiric_aura_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\skeleton_king_vampiric_aura_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="slardar_amplify_damage_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\slardar_amplify_damage_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="slardar_bash_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\slardar_bash_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="slardar_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\slardar_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="slardar_slithereen_crush_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\slardar_slithereen_crush_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="slardar_sprint_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\slardar_sprint_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="spirit_breaker_charge_of_darkness_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\spirit_breaker_charge_of_darkness_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="spirit_breaker_empowering_haste_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\spirit_breaker_empowering_haste_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="spirit_breaker_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\spirit_breaker_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="spirit_breaker_greater_bash_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\spirit_breaker_greater_bash_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="spirit_breaker_nether_strike_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\spirit_breaker_nether_strike_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="sven_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\sven_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="sven_gods_strength_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\sven_gods_strength_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="sven_great_cleave_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\sven_great_cleave_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="sven_storm_bolt_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\sven_storm_bolt_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="sven_warcry_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\sven_warcry_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="tidehunter_anchor_smash_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\tidehunter_anchor_smash_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="tidehunter_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\tidehunter_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="tidehunter_gush_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\tidehunter_gush_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="tidehunter_kraken_shell_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\tidehunter_kraken_shell_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="tidehunter_ravage_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\tidehunter_ravage_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="tiny_avalanche_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\tiny_avalanche_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="tiny_craggy_exterior_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\tiny_craggy_exterior_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="tiny_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\tiny_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="tiny_grow_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\tiny_grow_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="tiny_toss_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\tiny_toss_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="treant_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\treant_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="treant_leech_seed_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\treant_leech_seed_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="treant_living_armor_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\treant_living_armor_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="treant_natures_guise_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\treant_natures_guise_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="treant_overgrowth_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\treant_overgrowth_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="tusk_frozen_sigil_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\tusk_frozen_sigil_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="tusk_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\tusk_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="tusk_ice_shards_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\tusk_ice_shards_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="tusk_snowball_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\tusk_snowball_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="tusk_walrus_punch_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\tusk_walrus_punch_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="undying_decay_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\undying_decay_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="undying_flesh_golem_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\undying_flesh_golem_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="undying_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\undying_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="undying_soul_rip_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\undying_soul_rip_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="undying_tombstone_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\undying_tombstone_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="wisp_full"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\wisp_full.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="wisp_overcharge_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\wisp_overcharge_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="wisp_relocate_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\wisp_relocate_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="wisp_spirits_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\wisp_spirits_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="wisp_tether_hp1"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable\wisp_tether_hp1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_game_over"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\layout\activity_game_over.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_skill_quiz"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\layout\activity_skill_quiz.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\values\color.xml"
+                qualifiers="" >
+                <color name="black" >#ff000000
+                </color>
+                <color name="red" >#ff8f010d
+                </color>
+            </file>
+            <file
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="time" >Time: 
+                </string>
+                <string name="skill_quiz" >Skill quiz
+                </string>
+                <string name="guesses_left" >Guesses left: 
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="hero_quiz" >Hero quiz
+                </string>
+                <string name="app_name" >Dota
+                </string>
+                <string name="points" >Points: 
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="game_over" >Game Over
+                </string>
+            </file>
+            <file
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="btnStylesorbus"
+                    parent="@android:style/Widget.Button" >
+                    <item name="android:textSize">
+15sp
+                    </item>
+                    <item name="android:textStyle">
+bold
+                    </item>
+                    <item name="android:textColor">
+#FFFFFF
+                    </item>
+                    <item name="android:gravity">
+center
+                    </item>
+                    <item name="android:shadowColor">
+#000000
+                    </item>
+                    <item name="android:shadowDx">
+1
+                    </item>
+                    <item name="android:shadowDy">
+1
+                    </item>
+                    <item name="android:shadowRadius">
+0.6
+                    </item>
+                    <item name="android:background">
+@drawable/custom_btn_sorbus
+                    </item>
+                    <item name="android:padding">
+10dip
+                    </item>
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\build\res\rs\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\debug\res" />
+    </dataSet>
+
+</merger>

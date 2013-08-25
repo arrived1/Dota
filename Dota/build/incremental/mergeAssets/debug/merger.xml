@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\main\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="D:\userdata\przybyl\AndroidStudioProjects\DotaProject\Dota\src\debug\assets" />
+    </dataSet>
+
+</merger>
