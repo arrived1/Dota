@@ -187,6 +187,5 @@ public class SkillQuizActivity extends Activity {
         answers.add(button3);
         answers.add(button4);
         answers.add(button5);
-
     }
 }
