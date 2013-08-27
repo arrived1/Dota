@@ -12,6 +12,9 @@ public class GameActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_game);
 
+        GameSounds sounds = new GameSounds(this);
+        sounds.welcome();
+
         addListenerOnButtonSkillQuiz();
     }
 

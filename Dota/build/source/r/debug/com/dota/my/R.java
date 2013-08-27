@@ -13,15 +13,15 @@ public final class R {
     public static final class color {
         /**  From: file:/D:/userdata/przybyl/AndroidStudioProjects/DotaProject/Dota/src/main/res/values/color.xml 
          */
-        public static final int black=0x7f040000;
-        public static final int red=0x7f040001;
+        public static final int black=0x7f050000;
+        public static final int red=0x7f050001;
     }
     public static final class dimen {
         /**  From: file:/D:/userdata/przybyl/AndroidStudioProjects/DotaProject/Dota/src/main/res/values/dimens.xml 
  From: file:/D:/userdata/przybyl/AndroidStudioProjects/DotaProject/Dota/src/main/res/values-sw720dp-land/dimens.xml 
          */
-        public static final int activity_horizontal_margin=0x7f050000;
-        public static final int activity_vertical_margin=0x7f050001;
+        public static final int activity_horizontal_margin=0x7f060000;
+        public static final int activity_vertical_margin=0x7f060001;
     }
     public static final class drawable {
         public static final int abaddon_aphotic_shield_hp1=0x7f020000;
@@ -195,32 +195,32 @@ public final class R {
         public static final int wisp_tether_hp1=0x7f0200a8;
     }
     public static final class id {
-        public static final int action_settings=0x7f090019;
-        public static final int buttonRow1=0x7f090011;
-        public static final int buttonRow2=0x7f090015;
-        public static final int gameOverTxt=0x7f090002;
-        public static final int guessesLeft=0x7f09000f;
-        public static final int guessesLeftTxt=0x7f09000e;
-        public static final int image0=0x7f090012;
-        public static final int image1=0x7f090013;
-        public static final int image2=0x7f090014;
-        public static final int image3=0x7f090016;
-        public static final int image4=0x7f090017;
-        public static final int image5=0x7f090018;
-        public static final int logo=0x7f090000;
-        public static final int pic=0x7f090010;
-        public static final int score=0x7f09000d;
-        public static final int scoreRes=0x7f090005;
-        public static final int scoreTxt=0x7f09000c;
-        public static final int scoreTxtRes=0x7f090004;
-        public static final int skillQuiz=0x7f090001;
-        public static final int statistics=0x7f090009;
-        public static final int statistics1=0x7f090003;
-        public static final int statistics2=0x7f090006;
-        public static final int time=0x7f09000b;
-        public static final int timeRes=0x7f090008;
-        public static final int timeTxt=0x7f09000a;
-        public static final int timeTxtRes=0x7f090007;
+        public static final int action_settings=0x7f0a0019;
+        public static final int buttonRow1=0x7f0a0011;
+        public static final int buttonRow2=0x7f0a0015;
+        public static final int gameOverTxt=0x7f0a0002;
+        public static final int guessesLeft=0x7f0a000f;
+        public static final int guessesLeftTxt=0x7f0a000e;
+        public static final int image0=0x7f0a0012;
+        public static final int image1=0x7f0a0013;
+        public static final int image2=0x7f0a0014;
+        public static final int image3=0x7f0a0016;
+        public static final int image4=0x7f0a0017;
+        public static final int image5=0x7f0a0018;
+        public static final int logo=0x7f0a0000;
+        public static final int pic=0x7f0a0010;
+        public static final int score=0x7f0a000d;
+        public static final int scoreRes=0x7f0a0005;
+        public static final int scoreTxt=0x7f0a000c;
+        public static final int scoreTxtRes=0x7f0a0004;
+        public static final int skillQuiz=0x7f0a0001;
+        public static final int statistics=0x7f0a0009;
+        public static final int statistics1=0x7f0a0003;
+        public static final int statistics2=0x7f0a0006;
+        public static final int time=0x7f0a000b;
+        public static final int timeRes=0x7f0a0008;
+        public static final int timeTxt=0x7f0a000a;
+        public static final int timeTxtRes=0x7f0a0007;
     }
     public static final class layout {
         public static final int activity_game=0x7f030000;
@@ -229,20 +229,27 @@ public final class R {
         public static final int activity_skill_quiz=0x7f030003;
     }
     public static final class menu {
-        public static final int main=0x7f080000;
+        public static final int main=0x7f090000;
+    }
+    public static final class raw {
+        public static final int correct=0x7f040000;
+        public static final int game_over=0x7f040001;
+        public static final int gamestartup2=0x7f040002;
+        public static final int incorrect=0x7f040003;
+        public static final int welcome=0x7f040004;
     }
     public static final class string {
         /**  From: file:/D:/userdata/przybyl/AndroidStudioProjects/DotaProject/Dota/src/main/res/values/strings.xml 
          */
-        public static final int action_settings=0x7f060000;
-        public static final int app_name=0x7f060001;
-        public static final int game_over=0x7f060002;
-        public static final int guesses_left=0x7f060003;
-        public static final int hello_world=0x7f060004;
-        public static final int hero_quiz=0x7f060005;
-        public static final int points=0x7f060006;
-        public static final int skill_quiz=0x7f060007;
-        public static final int time=0x7f060008;
+        public static final int action_settings=0x7f070000;
+        public static final int app_name=0x7f070001;
+        public static final int game_over=0x7f070002;
+        public static final int guesses_left=0x7f070003;
+        public static final int hello_world=0x7f070004;
+        public static final int hero_quiz=0x7f070005;
+        public static final int points=0x7f070006;
+        public static final int skill_quiz=0x7f070007;
+        public static final int time=0x7f070008;
     }
     public static final class style {
         /**  From: file:/D:/userdata/przybyl/AndroidStudioProjects/DotaProject/Dota/src/main/res/values/styles.xml 
@@ -254,10 +261,10 @@ public final class R {
  From: file:/D:/userdata/przybyl/AndroidStudioProjects/DotaProject/Dota/src/main/res/values-v11/styles.xml 
  API 11 theme customizations can go here. 
          */
-        public static final int AppBaseTheme=0x7f070000;
+        public static final int AppBaseTheme=0x7f080000;
         /**  All customizations that are NOT specific to a particular API-level can go here. 
          */
-        public static final int AppTheme=0x7f070001;
-        public static final int btnStylesorbus=0x7f070002;
+        public static final int AppTheme=0x7f080001;
+        public static final int btnStylesorbus=0x7f080002;
     }
 }

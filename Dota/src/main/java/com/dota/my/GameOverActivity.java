@@ -13,6 +13,9 @@ public class GameOverActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_game_over);
 
+        GameSounds sounds = new GameSounds(this);
+        sounds.gameOver();
+
         Bundle extras = getIntent().getExtras();
         int points = extras.getInt("SCORE");
         String timeTxt = extras.getString("TIME");

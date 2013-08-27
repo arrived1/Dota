@@ -14,6 +14,7 @@ import java.util.Vector;
 
 
 public class SkillQuizActivity extends Activity {
+    private GameSounds sounds;
     private Random rand = new Random();
 
     private DataBase base = new DataBase();
@@ -38,11 +39,16 @@ public class SkillQuizActivity extends Activity {
     private ImageButton button4;
     private ImageButton button5;
 
+    public SkillQuizActivity() {
+        sounds = new GameSounds(this);
+//        sounds.playMusic();
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_skill_quiz);
+
 
         prepareScore();
         prapareBoard();
@@ -94,10 +100,12 @@ public class SkillQuizActivity extends Activity {
 
     private void action(int buttonId) {
         if(correctAnswer == buttonId) {
+            sounds.correct();
             addPoint();
             prepareQuestion();
         }
         else {
+            sounds.incorrect();
             subGuesses();
             if(guessesLeft == 0) {
 
