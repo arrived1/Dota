@@ -1,6 +1,5 @@
 package com.dota.my;
 
-
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
@@ -11,6 +10,9 @@ import android.widget.TextView;
 
 import java.util.Random;
 import java.util.Vector;
+
+import com.google.ads.AdRequest;
+import com.google.ads.AdView;
 
 
 public class SkillQuizActivity extends Activity {
@@ -49,11 +51,17 @@ public class SkillQuizActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_skill_quiz);
 
+        addAdView();
 
         prepareScore();
         prapareBoard();
 
         prepareQuestion();
+    }
+
+    private void addAdView() {
+        AdView ad = (AdView)findViewById(R.id.adView);
+        ad.loadAd(new AdRequest());
     }
 
     private void prepareQuestion()

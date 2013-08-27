@@ -195,7 +195,8 @@ public final class R {
         public static final int wisp_tether_hp1=0x7f0200a8;
     }
     public static final class id {
-        public static final int action_settings=0x7f0a0019;
+        public static final int action_settings=0x7f0a001a;
+        public static final int adView=0x7f0a0019;
         public static final int buttonRow1=0x7f0a0011;
         public static final int buttonRow2=0x7f0a0015;
         public static final int gameOverTxt=0x7f0a0002;
