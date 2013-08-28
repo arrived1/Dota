@@ -4,6 +4,7 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Chronometer;
 import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -17,7 +18,9 @@ import com.google.ads.AdView;
 
 public class SkillQuizActivity extends Activity {
     private GameSounds sounds;
+    private Score score;
     private Random rand = new Random();
+    private Chronometer mChronometer;
 
     private DataBase base = new DataBase();
     private Hero newHero;
@@ -25,12 +28,7 @@ public class SkillQuizActivity extends Activity {
 
     private int correctAnswer = -1;
 
-    private int guessesLeft = 3;
-    private int points = 0;
-
     private TextView time;
-    private TextView score;
-    private TextView guesses;
 
     private ImageView heroPic;
 
@@ -43,6 +41,7 @@ public class SkillQuizActivity extends Activity {
 
     public SkillQuizActivity() {
         sounds = new GameSounds(this);
+        score = new Score(this);
 //        sounds.playMusic();
     }
 
@@ -51,10 +50,13 @@ public class SkillQuizActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_skill_quiz);
 
+        mChronometer = (Chronometer) findViewById(R.id.time);
+        mChronometer.start();
+
         addAdView();
 
-        prepareScore();
-        prapareBoard();
+        score.prepareScore();
+        prepareBoard();
 
         prepareQuestion();
     }
@@ -109,45 +111,26 @@ public class SkillQuizActivity extends Activity {
     private void action(int buttonId) {
         if(correctAnswer == buttonId) {
             sounds.correct();
-            addPoint();
+            score.addPoint();
             prepareQuestion();
         }
         else {
             sounds.incorrect();
-            subGuesses();
-            if(guessesLeft == 0) {
+            score.subGuesses();
+            if(score.getGuessesLeft() == 0) {
+                mChronometer.stop();
 
                 Intent myIntent = new Intent(this, GameOverActivity.class);
-                myIntent.putExtra("SCORE", points);
-                myIntent.putExtra("TIME", "1:04:12");
+                myIntent.putExtra("SCORE", score.getPiots());
+
+                myIntent.putExtra("TIME", mChronometer.getText());
                 startActivity(myIntent);
                 finish();
             }
         }
     }
 
-    private void addPoint() {
-        points++;
-        score.setText(Integer.toString(points));
-    }
-
-    private void subGuesses() {
-        guessesLeft--;
-        guesses.setText(Integer.toString(guessesLeft));
-    }
-
-    private void prepareScore() {
-        score = (TextView)findViewById(R.id.score);
-        score.setText(Integer.toString(points));
-
-        guesses = (TextView)findViewById(R.id.guessesLeft);
-        guesses.setText(Integer.toString(guessesLeft));
-
-        time = (TextView)findViewById(R.id.time);
-        time.setText(Integer.toString(0));
-    }
-
-    private void prapareBoard() {
+    private void prepareBoard() {
         button0 = (ImageButton)findViewById(R.id.image0);
         button0.setOnClickListener(new View.OnClickListener() {
             @Override

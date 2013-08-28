@@ -9,10 +9,10 @@
     <dimen name="activity_vertical_margin">16dp</dimen>
     <!-- From: file:/D:/userdata/przybyl/AndroidStudioProjects/DotaProject/Dota/src/main/res/values/strings.xml -->
     <string name="action_settings">Settings</string>
-    <string name="app_name">Dota</string>
+    <string name="app_name">Dota2 Game Quiz</string>
+    <string name="chronometer_initial_format">%s</string>
     <string name="game_over">Game Over</string>
     <string name="guesses_left">Guesses left: </string>
-    <string name="hello_world">Hello world!</string>
     <string name="hero_quiz">Hero quiz</string>
     <string name="points">Points: </string>
     <string name="skill_quiz">Skill quiz</string>

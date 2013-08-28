@@ -241,12 +241,14 @@ public final class R {
     }
     public static final class string {
         /**  From: file:/D:/userdata/przybyl/AndroidStudioProjects/DotaProject/Dota/src/main/res/values/strings.xml 
+ From: file:/D:/userdata/przybyl/AndroidStudioProjects/DotaProject/Dota/src/main/res/values-en/strings.xml 
+ From: file:/D:/userdata/przybyl/AndroidStudioProjects/DotaProject/Dota/src/main/res/values-pl/strings.xml 
          */
         public static final int action_settings=0x7f070000;
         public static final int app_name=0x7f070001;
-        public static final int game_over=0x7f070002;
-        public static final int guesses_left=0x7f070003;
-        public static final int hello_world=0x7f070004;
+        public static final int chronometer_initial_format=0x7f070002;
+        public static final int game_over=0x7f070003;
+        public static final int guesses_left=0x7f070004;
         public static final int hero_quiz=0x7f070005;
         public static final int points=0x7f070006;
         public static final int skill_quiz=0x7f070007;

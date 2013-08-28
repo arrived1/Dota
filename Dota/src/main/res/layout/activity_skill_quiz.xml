@@ -1,15 +1,15 @@
-<ScrollView
+<RelativeLayout
         xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content" >
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:context=".AboutProgramActivity" >
 
-    <RelativeLayout
-            xmlns:android="http://schemas.android.com/apk/res/android"
-            xmlns:tools="http://schemas.android.com/tools"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            tools:context=".AboutProgramActivity" >
+    <!--<ScrollView-->
+            <!--xmlns:android="http://schemas.android.com/apk/res/android"-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="wrap_content" >-->
 
     <LinearLayout
             android:id="@+id/statistics"
@@ -24,13 +24,12 @@
                 android:layout_height="wrap_content"
                 android:text="@string/time" />
 
-            <TextView
-                android:id="@+id/time"
+            <Chronometer android:id="@+id/time"
+                android:format="@string/chronometer_initial_format"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_alignLeft="@id/timeTxt"
-                android:layout_marginLeft="5px"
-                android:textSize="40px" />
+                android:layout_weight="0" />
 
             <TextView
                 android:id="@+id/scoreTxt"
@@ -121,16 +120,19 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />
 
-        </LinearLayout>
+   </LinearLayout>
+
+   <!--</ScrollView>-->
 
    <com.google.ads.AdView
-        android:id="@+id/adView"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        ads:adUnitId="a641ace1d47b485e"
-        ads:adSize="BANNER"
-        ads:loadAdsOnCreate="true" />
+            android:id="@+id/adView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            ads:adUnitId="a641ace1d47b485e"
+            ads:adSize="BANNER"
+            ads:loadAdsOnCreate="true" />
+</RelativeLayout>
 
-    </RelativeLayout>
-</ScrollView>
+
+
