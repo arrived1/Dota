@@ -13,8 +13,8 @@ public class Score {
     private TextView score;
     private TextView guesses;
 
-    public Score(Activity actv_) {
-        this.actv = actv_;
+    public Score(Activity actv) {
+        this.actv = actv;
     }
 
     public void addPoint() {
@@ -41,8 +41,5 @@ public class Score {
 
         guesses = (TextView)actv.findViewById(R.id.guessesLeft);
         guesses.setText(Integer.toString(guessesLeft));
-
-//        time = (TextView)findViewById(R.id.time);
-//        time.setText(Integer.toString(0));
     }
 }

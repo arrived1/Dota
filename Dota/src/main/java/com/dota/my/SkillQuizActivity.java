@@ -4,10 +4,8 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Chronometer;
 import android.widget.ImageButton;
 import android.widget.ImageView;
-import android.widget.TextView;
 
 import java.util.Random;
 import java.util.Vector;
@@ -19,8 +17,8 @@ import com.google.ads.AdView;
 public class SkillQuizActivity extends Activity {
     private GameSounds sounds;
     private Score score;
+    private Timer timer;
     private Random rand = new Random();
-    private Chronometer mChronometer;
 
     private DataBase base = new DataBase();
     private Hero newHero;
@@ -28,21 +26,11 @@ public class SkillQuizActivity extends Activity {
 
     private int correctAnswer = -1;
 
-    private TextView time;
 
-    private ImageView heroPic;
-
-    private ImageButton button0;
-    private ImageButton button1;
-    private ImageButton button2;
-    private ImageButton button3;
-    private ImageButton button4;
-    private ImageButton button5;
 
     public SkillQuizActivity() {
-        sounds = new GameSounds(this);
-        score = new Score(this);
-//        sounds.playMusic();
+        this.sounds = new GameSounds(this);
+        this.score = new Score(this);
     }
 
     @Override
@@ -50,14 +38,12 @@ public class SkillQuizActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_skill_quiz);
 
-        mChronometer = (Chronometer) findViewById(R.id.time);
-        mChronometer.start();
+        this.timer = new Timer(this);
+        score.prepareScore();
 
         addAdView();
 
-        score.prepareScore();
         prepareBoard();
-
         prepareQuestion();
     }
 
@@ -86,7 +72,7 @@ public class SkillQuizActivity extends Activity {
         int heroIdx = rand.nextInt(base.size());
         newHero = base.getHero(heroIdx);
 
-        heroPic = (ImageView)findViewById(R.id.pic);
+        ImageView heroPic = (ImageView) findViewById(R.id.pic);
         heroPic.setImageResource(newHero.getPic());
 
         return heroIdx;
@@ -118,12 +104,11 @@ public class SkillQuizActivity extends Activity {
             sounds.incorrect();
             score.subGuesses();
             if(score.getGuessesLeft() == 0) {
-                mChronometer.stop();
+                timer.stopTimer();
 
                 Intent myIntent = new Intent(this, GameOverActivity.class);
                 myIntent.putExtra("SCORE", score.getPiots());
-
-                myIntent.putExtra("TIME", mChronometer.getText());
+                myIntent.putExtra("TIME", timer.getTimeTxt());
                 startActivity(myIntent);
                 finish();
             }
@@ -131,7 +116,7 @@ public class SkillQuizActivity extends Activity {
     }
 
     private void prepareBoard() {
-        button0 = (ImageButton)findViewById(R.id.image0);
+        ImageButton button0 = (ImageButton)findViewById(R.id.image0);
         button0.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View arg0) {
@@ -140,7 +125,7 @@ public class SkillQuizActivity extends Activity {
             }
         });
 
-        button1 = (ImageButton)findViewById(R.id.image1);
+        ImageButton button1 = (ImageButton)findViewById(R.id.image1);
         button1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View arg0) {
@@ -148,7 +133,7 @@ public class SkillQuizActivity extends Activity {
             }
         });
 
-        button2 = (ImageButton)findViewById(R.id.image2);
+        ImageButton button2 = (ImageButton)findViewById(R.id.image2);
         button2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View arg0) {
@@ -156,7 +141,7 @@ public class SkillQuizActivity extends Activity {
             }
         });
 
-        button3 = (ImageButton)findViewById(R.id.image3);
+        ImageButton button3 = (ImageButton)findViewById(R.id.image3);
         button3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View arg0) {
@@ -164,7 +149,7 @@ public class SkillQuizActivity extends Activity {
             }
         });
 
-        button4 = (ImageButton)findViewById(R.id.image4);
+        ImageButton button4 = (ImageButton) findViewById(R.id.image4);
         button4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View arg0) {
@@ -172,7 +157,7 @@ public class SkillQuizActivity extends Activity {
             }
         });
 
-        button5 = (ImageButton)findViewById(R.id.image5);
+        ImageButton button5 = (ImageButton)findViewById(R.id.image5);
         button5.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View arg0) {
