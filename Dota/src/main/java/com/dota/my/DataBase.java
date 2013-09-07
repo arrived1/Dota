@@ -239,6 +239,231 @@ public class DataBase {
                 R.drawable.abaddon_frostmourne_hp1,
                 R.drawable.abaddon_borrowed_time_hp1));
 
+        heroes.add(new Hero("AntiMage",
+                R.drawable.antimage_full,
+                R.drawable.antimage_mana_break_hp1,
+                R.drawable.antimage_blink_hp1,
+                R.drawable.antimage_spell_shield_hp1,
+                R.drawable.antimage_mana_void_hp1));
+
+        heroes.add(new Hero("DrowRanger",
+                R.drawable.drow_ranger_full,
+                R.drawable.drow_ranger_frost_arrows_hp1,
+                R.drawable.drow_ranger_silence_hp1,
+                R.drawable.drow_ranger_trueshot_hp1,
+                R.drawable.drow_ranger_marksmanship_hp1));
+
+        heroes.add(new Hero("Juggernaut",
+                R.drawable.juggernaut_full,
+                R.drawable.juggernaut_blade_fury_hp1,
+                R.drawable.juggernaut_healing_ward_hp1,
+                R.drawable.juggernaut_blade_dance_hp1,
+                R.drawable.juggernaut_omni_slash_hp1));
+
+        heroes.add(new Hero("Mirana",
+                R.drawable.mirana_full,
+                R.drawable.mirana_starfall_hp1,
+                R.drawable.mirana_arrow_hp1,
+                R.drawable.mirana_leap_hp1,
+                R.drawable.mirana_invis_hp1));
+
+        heroes.add(new Hero("Morphling",
+                R.drawable.morphling_full,
+                R.drawable.morphling_waveform_hp1,
+                R.drawable.morphling_adaptive_strike_hp1,
+                R.drawable.morphling_morph_agi_hp1,
+                R.drawable.morphling_replicate_hp1));
+
+        heroes.add(new Hero("PhantomLancer",
+                R.drawable.phantom_lancer_full,
+                R.drawable.phantom_lancer_spirit_lance_hp1,
+                R.drawable.phantom_lancer_doppelwalk_hp1,
+                R.drawable.phantom_lancer_juxtapose_hp1,
+                R.drawable.phantom_lancer_phantom_edge_hp1));
+
+        heroes.add(new Hero("VengefulSpirit",
+                R.drawable.vengefulspirit_full,
+                R.drawable.vengefulspirit_magic_missile_hp1,
+                R.drawable.vengefulspirit_wave_of_terror_hp1,
+                R.drawable.vengefulspirit_wave_of_terror_hp1,
+                R.drawable.vengefulspirit_nether_swap_hp1));
+
+        heroes.add(new Hero("Riki",
+                R.drawable.riki_full,
+                R.drawable.riki_smoke_screen_hp1,
+                R.drawable.riki_blink_strike_hp1,
+                R.drawable.riki_backstab_hp1,
+                R.drawable.riki_permanent_invisibility_hp1));
+
+        heroes.add(new Hero("Sniper",
+                R.drawable.sniper_full,
+                R.drawable.sniper_shrapnel_hp1,
+                R.drawable.sniper_headshot_hp1,
+                R.drawable.sniper_take_aim_hp1,
+                R.drawable.sniper_assassinate_hp1));
+
+        heroes.add(new Hero("TemplarAssassin",
+                R.drawable.templar_assassin_full,
+                R.drawable.templar_assassin_refraction_hp1,
+                R.drawable.templar_assassin_meld_hp1,
+                R.drawable.templar_assassin_psi_blades_hp1,
+                R.drawable.templar_assassin_psionic_trap_hp1));
+
+        heroes.add(new Hero("Luna",
+                R.drawable.luna_full,
+                R.drawable.luna_lucent_beam_hp1,
+                R.drawable.luna_moon_glaive_hp1,
+                R.drawable.luna_lunar_blessing_hp1,
+                R.drawable.luna_eclipse_hp1));
+
+        heroes.add(new Hero("BountyHunter",
+                R.drawable.bounty_hunter_full,
+                R.drawable.bounty_hunter_shuriken_toss_hp1,
+                R.drawable.bounty_hunter_jinada_hp1,
+                R.drawable.bounty_hunter_wind_walk_hp1,
+                R.drawable.bounty_hunter_track_hp1));
+
+        heroes.add(new Hero("Ursa",
+                R.drawable.ursa_full,
+                R.drawable.ursa_earthshock_hp1,
+                R.drawable.ursa_overpower_hp1,
+                R.drawable.ursa_fury_swipes_hp1,
+                R.drawable.ursa_enrage_hp1));
+
+        heroes.add(new Hero("Gyrocopter",
+                R.drawable.gyrocopter_full,
+                R.drawable.gyrocopter_rocket_barrage_hp1,
+                R.drawable.gyrocopter_homing_missile_hp1,
+                R.drawable.gyrocopter_flak_cannon_hp1,
+                R.drawable.gyrocopter_call_down_hp1));
+
+        heroes.add(new Hero("LoneDruid",
+                R.drawable.lone_druid_full,
+                R.drawable.lone_druid_spirit_bear_hp1,
+                R.drawable.lone_druid_rabid_hp1,
+                R.drawable.lone_druid_synergy_hp1,
+                R.drawable.lone_druid_true_form_hp1));
+
+        heroes.add(new Hero("NagaSiren",
+                R.drawable.naga_siren_full,
+                R.drawable.naga_siren_mirror_image_hp1,
+                R.drawable.naga_siren_ensnare_hp1,
+                R.drawable.naga_siren_rip_tide_hp1,
+                R.drawable.naga_siren_song_of_the_siren_hp1));
+
+        heroes.add(new Hero("TrollWarlord",
+                R.drawable.troll_warlord_full,
+                R.drawable.troll_warlord_berserkers_rage_hp1,
+                R.drawable.troll_warlord_whirling_axes_ranged_hp1,
+                R.drawable.troll_warlord_fervor_hp1,
+                R.drawable.troll_warlord_battle_trance_hp1));
+
+        heroes.add(new Hero("Bloodseeker",
+                R.drawable.bloodseeker_full,
+                R.drawable.bloodseeker_bloodrage_hp1,
+                R.drawable.bloodseeker_blood_bath_hp1,
+                R.drawable.bloodseeker_thirst_hp1,
+                R.drawable.bloodseeker_rupture_hp1));
+
+        heroes.add(new Hero("ShadowFiend",
+                R.drawable.nevermore_full,
+                R.drawable.nevermore_shadowraze1_hp1,
+                R.drawable.nevermore_necromastery_hp1,
+                R.drawable.nevermore_dark_lord_hp1,
+                R.drawable.nevermore_requiem_hp1));
+
+        heroes.add(new Hero("Razor",
+                R.drawable.razor_full,
+                R.drawable.razor_plasma_field_hp1,
+                R.drawable.razor_static_link_hp1,
+                R.drawable.razor_unstable_current_hp1,
+                R.drawable.razor_eye_of_the_storm_hp1));
+
+        heroes.add(new Hero("Venomancer",
+                R.drawable.venomancer_full,
+                R.drawable.venomancer_venomous_gale_hp1,
+                R.drawable.venomancer_poison_sting_hp1,
+                R.drawable.venomancer_plague_ward_hp1,
+                R.drawable.venomancer_poison_nova_hp1));
+
+        heroes.add(new Hero("FacelessVoid",
+                R.drawable.faceless_void_full,
+                R.drawable.faceless_void_time_walk_hp1,
+                R.drawable.faceless_void_backtrack_hp1,
+                R.drawable.faceless_void_time_lock_hp1,
+                R.drawable.faceless_void_chronosphere_hp1));
+
+        heroes.add(new Hero("PhantomAssassin",
+                R.drawable.phantom_assassin_full,
+                R.drawable.phantom_assassin_stifling_dagger_hp1,
+                R.drawable.phantom_assassin_phantom_strike_hp1,
+                R.drawable.phantom_assassin_blur_hp1,
+                R.drawable.phantom_assassin_coup_de_grace_hp1));
+
+        heroes.add(new Hero("Viper",
+                R.drawable.viper_full,
+                R.drawable.viper_poison_attack_hp1,
+                R.drawable.viper_nethertoxin_hp1,
+                R.drawable.viper_corrosive_skin_hp1,
+                R.drawable.viper_viper_strike_hp1));
+
+        heroes.add(new Hero("Clinkz",
+                R.drawable.clinkz_full,
+                R.drawable.clinkz_strafe_hp1,
+                R.drawable.clinkz_searing_arrows_hp1,
+                R.drawable.clinkz_wind_walk_hp1,
+                R.drawable.clinkz_death_pact_hp1));
+
+        heroes.add(new Hero("Broodmother",
+                R.drawable.broodmother_full,
+                R.drawable.broodmother_spawn_spiderlings_hp1,
+                R.drawable.broodmother_spin_web_hp1,
+                R.drawable.broodmother_incapacitating_bite_hp1,
+                R.drawable.broodmother_insatiable_hunger_hp1));
+
+        heroes.add(new Hero("Weaver",
+                R.drawable.weaver_full,
+                R.drawable.weaver_the_swarm_hp1,
+                R.drawable.weaver_shukuchi_hp1,
+                R.drawable.weaver_geminate_attack_hp1,
+                R.drawable.weaver_time_lapse_hp1));
+
+        heroes.add(new Hero("Spectre",
+                R.drawable.spectre_full,
+                R.drawable.spectre_spectral_dagger_hp1,
+                R.drawable.spectre_desolate_hp1,
+                R.drawable.spectre_dispersion_hp1,
+                R.drawable.spectre_haunt_hp1));
+
+        heroes.add(new Hero("Meepo",
+                R.drawable.meepo_full,
+                R.drawable.meepo_earthbind_hp1,
+                R.drawable.meepo_poof_hp1,
+                R.drawable.meepo_geostrike_hp1,
+                R.drawable.meepo_divided_we_stand_hp1));
+
+        heroes.add(new Hero("NyxAssassin",
+                R.drawable.nyx_assassin_full,
+                R.drawable.nyx_assassin_impale_hp1,
+                R.drawable.nyx_assassin_mana_burn_hp1,
+                R.drawable.nyx_assassin_spiked_carapace_hp1,
+                R.drawable.nyx_assassin_vendetta_hp1));
+
+        heroes.add(new Hero("Slark",
+                R.drawable.slark_full,
+                R.drawable.slark_dark_pact_hp1,
+                R.drawable.slark_pounce_hp1,
+                R.drawable.slark_essence_shift_hp1,
+                R.drawable.slark_shadow_dance_hp1));
+
+        heroes.add(new Hero("Medusa",
+                R.drawable.medusa_full,
+                R.drawable.medusa_split_shot_hp1,
+                R.drawable.medusa_mystic_snake_hp1,
+                R.drawable.medusa_mana_shield_hp1,
+                R.drawable.medusa_stone_gaze_hp1));
+
+
 //        heroes.add(new Hero("",
 //                R.drawable.,
 //                R.drawable.,

@@ -115,6 +115,7 @@ public class SkillQuizActivity extends Activity {
         }
     }
 
+
     private void prepareBoard() {
         ImageButton button0 = (ImageButton)findViewById(R.id.image0);
         button0.setOnClickListener(new View.OnClickListener() {
