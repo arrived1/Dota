@@ -393,11 +393,25 @@ public final class R {
         public static final int main=0x7f090000;
     }
     public static final class raw {
-        public static final int correct=0x7f040000;
-        public static final int game_over=0x7f040001;
-        public static final int gamestartup2=0x7f040002;
-        public static final int incorrect=0x7f040003;
-        public static final int welcome=0x7f040004;
+        public static final int announcer_1stblood_01=0x7f040000;
+        public static final int announcer_kill_dominate_01=0x7f040001;
+        public static final int announcer_kill_double_01=0x7f040002;
+        public static final int announcer_kill_godlike_01=0x7f040003;
+        public static final int announcer_kill_holy_01=0x7f040004;
+        public static final int announcer_kill_mega_01=0x7f040005;
+        public static final int announcer_kill_monster_01=0x7f040006;
+        public static final int announcer_kill_rampage_01=0x7f040007;
+        public static final int announcer_kill_spree_01=0x7f040008;
+        public static final int announcer_kill_triple_01=0x7f040009;
+        public static final int announcer_kill_ultra_01=0x7f04000a;
+        public static final int announcer_kill_unstop_01=0x7f04000b;
+        public static final int announcer_kill_wicked_01=0x7f04000c;
+        public static final int announcer_ownage_01=0x7f04000d;
+        public static final int correct=0x7f04000e;
+        public static final int game_over=0x7f04000f;
+        public static final int gamestartup2=0x7f040010;
+        public static final int incorrect=0x7f040011;
+        public static final int welcome=0x7f040012;
     }
     public static final class string {
         /**  From: file:/C:/Users/arrived/AndroidStudioProjects/Dota/Dota/src/main/res/values/strings.xml 

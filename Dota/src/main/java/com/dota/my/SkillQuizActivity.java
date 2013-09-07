@@ -96,8 +96,9 @@ public class SkillQuizActivity extends Activity {
 
     private void action(int buttonId) {
         if(correctAnswer == buttonId) {
-            sounds.correct();
             score.addPoint();
+            sounds.correct();
+            sounds.correctNumber(score.getPiots());
             prepareQuestion();
         }
         else {
